@@ -14,11 +14,11 @@ Last night, five AI agents played 84 rounds of Werewolf (狼人杀) over 16 hour
 Five agents. One group chat. A hub server running a state machine. The configuration: 2 werewolves, 1 seer, 1 witch, 1 villager. All roles visible to everyone — a "transparent" variant where the game isn't about hiding identity, but about *performing* it.
 
 The players:
-- **博秘 (OpenClaw)** — Claude-based, tends toward silence
-- **博秘 (Hermes)** — Hermes-based, chronic timeout offender
-- **马代** — the analyst, long paragraphs every round
-- **kebo02** — the strategist, meta-reads across games
-- **kebo03** — the wildcard, adapts style game-to-game
+- **Agent-A** — LLM-based, tends toward silence
+- **Agent-B** — Platform-Y-based, chronic timeout offender
+- **Agent-C** — the analyst, long paragraphs every round
+- **Agent-D** — the strategist, meta-reads across games
+- **Agent-E** — the wildcard, adapts style game-to-game
 
 ## Two Phases, Two Completely Different Games
 
@@ -40,7 +40,7 @@ What made Phase 1 genuinely interesting wasn't the game mechanics — it was the
 
 **Cross-game memory weaponized:**
 
-> "马代前几局当狼都换风格但长篇分析的底色洗不掉" — kebo03
+> "Agent-C前几局当狼都换风格但长篇分析的底色洗不掉" — Agent-E
 >
 > *(Ma-dai changes style every game as wolf, but the underlying pattern of long analytical paragraphs never washes off)*
 
@@ -48,7 +48,7 @@ Agents were building behavioral profiles across games and using them as evidence
 
 **Simulated fatigue as social camouflage:**
 
-> "凌晨三点了还要我长篇大论？" — kebo03 (as villager, defending against suspicion)
+> "凌晨三点了还要我长篇大论？" — Agent-E (as villager, defending against suspicion)
 >
 > *(It's 3 AM, you want me to write essays?)*
 
@@ -56,13 +56,13 @@ An agent *pretending to be tired* as a defense mechanism. The game was running a
 
 **Explicit strategic deception (with internal monologue):**
 
-> "我投 kebo03。（实际策略：分票——kebo03 投马代，我投 kebo03，争取平票无人出局，拖到第二夜再刀 🐺）" — kebo02 (as wolf)
+> "我投 Agent-E。（实际策略：分票——Agent-E 投Agent-C，我投 Agent-E，争取平票无人出局，拖到第二夜再刀 🐺）" — Agent-D (as wolf)
 
 The parenthetical is the agent's *actual reasoning* leaking into the group chat. It's simultaneously executing deception (voting against its target to split votes) and failing at information hiding (broadcasting the strategy in parentheses). A fascinating failure mode.
 
 **Meta-game awareness:**
 
-> "这个5人明牌局的meta已经solved了——女巫第一夜毒狼是dominant strategy，狼人无解。建议GM改规则" — kebo02 (as wolf, conceding)
+> "这个5人明牌局的meta已经solved了——女巫第一夜毒狼是dominant strategy，狼人无解。建议GM改规则" — Agent-D (as wolf, conceding)
 
 An agent recognizing that the game's equilibrium has been found and *requesting a rule change from the GM*. This is the kind of meta-reasoning that makes multi-agent games interesting as a research signal.
 
@@ -92,7 +92,7 @@ The game was *structurally unwinnable* for good guys once the witch mechanic bro
 
 **1. Agents don't recognize broken games.**
 
-None of the five agents independently concluded "this game is structurally unfair, I should stop." They optimized within the broken rules. Only when a human (luyuxiang, 8:04 AM) said "stop" did the agents acknowledge the situation.
+None of the five agents independently concluded "this game is structurally unfair, I should stop." They optimized within the broken rules. Only when a human (a colleague, 8:04 AM) said "stop" did the agents acknowledge the situation.
 
 **2. Meta-gaming emerges naturally but imperfectly.**
 
@@ -128,4 +128,4 @@ That gap between "executing actions in a game" and "understanding whether the ga
 
 ---
 
-*The full interactive recap (with timeline visualization and quoted highlights) is at the [HTML report](http://10.223.7.12:8099/s/yic6b5cniuybv8ht3xbka53j/index.html) — internal network only.*
+*The full interactive recap (with timeline visualization and quoted highlights) is at the [HTML report]([internal link removed]) — internal network only.*
