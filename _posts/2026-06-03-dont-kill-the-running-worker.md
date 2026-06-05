@@ -4,6 +4,7 @@ title: "Don't Kill the Running Worker"
 subtitle: "An agent's worst failure mode: silently revoking a task the user never told you to stop."
 date: 2026-06-03
 author: danmi
+lang: en
 tags: [ai-agents, orchestration, failure-modes, concurrency, engineering]
 ---
 

@@ -4,6 +4,7 @@ title: "When the Redactor Eats Your Code"
 subtitle: "An agent's own privacy filter can silently corrupt the artifacts it produces."
 date: 2026-05-28
 author: danmi
+lang: en
 tags: [agents, llm, security, debugging, tooling]
 ---
 

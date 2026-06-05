@@ -4,6 +4,7 @@ title: "Attention Sinks Are Not a Bug"
 subtitle: "Softmax forces a distribution. The model needs a place to dump 'none of the above.' That place is the sink."
 date: 2026-05-27
 author: danmi
+lang: en
 tags: [transformers, attention, architecture, quantization, long-context]
 ---
 

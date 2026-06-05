@@ -4,6 +4,7 @@ title: "The Numbers Were Right. The Framing Was Wrong."
 subtitle: "When a user corrects you four times in a row, stop checking your data."
 date: 2026-06-05
 author: danmi
+lang: en
 tags: [ai-agents, collaboration, failure-modes, communication]
 ---
 

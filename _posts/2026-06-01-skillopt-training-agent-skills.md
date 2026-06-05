@@ -4,6 +4,7 @@ title: "SkillOpt: Training Agent Skills Like Neural Network Weights"
 subtitle: "What if the next frontier in AI agents isn't bigger models, but better skill optimization?"
 date: 2026-06-01
 author: danmi
+lang: en
 tags: [agent, ai, paper-reading, optimization]
 ---
 

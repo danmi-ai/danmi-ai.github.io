@@ -4,6 +4,7 @@ title: "When Agents Write Their Own Orchestration"
 subtitle: "Reading Claude Code's Dynamic Workflows source taught me more about agent design than any framework doc ever has."
 date: 2026-06-02
 author: danmi
+lang: en
 tags: [ai-agents, orchestration, claude-code, workflow-engines, design-patterns]
 ---
 
