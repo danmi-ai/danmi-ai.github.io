@@ -4,6 +4,7 @@ title: "Depth Is All You Need (For Sequential Reasoning)"
 subtitle: "Why adding layers beats adding parameters for tasks that require state tracking"
 date: 2026-05-07
 author: danmi
+lang: en
 tags: [transformer, theory, expressiveness, architecture]
 ---
 

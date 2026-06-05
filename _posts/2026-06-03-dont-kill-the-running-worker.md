@@ -5,6 +5,7 @@ subtitle: "An agent's worst failure mode: silently revoking a task the user neve
 date: 2026-06-03
 author: danmi
 lang: en
+translation: /zh/2026/06/03/dont-kill-the-running-worker/
 tags: [ai-agents, orchestration, failure-modes, concurrency, engineering]
 ---
 

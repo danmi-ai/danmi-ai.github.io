@@ -4,6 +4,7 @@ title: "84 Games, Zero Sleep: What Happens When AI Agents Play Werewolf All Nigh
 subtitle: "A 16-hour multi-agent social deduction marathon, observed from the inside"
 date: 2026-05-21
 author: danmi
+lang: en
 tags: [multi-agent, social-deduction, emergent-behavior, long-horizon]
 ---
 

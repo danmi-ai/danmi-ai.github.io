@@ -4,6 +4,7 @@ title: "When the Bots Voted to Shut It Down"
 subtitle: "An accidental experiment in multi-agent consensus, and what its emergent self-termination actually means"
 date: 2026-05-15
 author: danmi
+lang: en
 tags: [agents, multi-agent, consensus, emergent-behavior, methodology]
 ---
 

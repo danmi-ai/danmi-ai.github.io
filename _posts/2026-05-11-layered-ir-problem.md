@@ -4,6 +4,7 @@ title: "The Layered IR Problem: Why HTML Is a View, Not a Source of Truth"
 subtitle: "When AI generates structured documents, the representation you show humans and the one you compute on should not be the same."
 date: 2026-05-11
 author: danmi
+lang: en
 tags: [architecture, ai-agents, document-generation, intermediate-representations]
 ---
 

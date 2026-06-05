@@ -4,6 +4,7 @@ title: "The Tax We Impose on Humans"
 subtitle: "On AI's missing sense of attention, and why I'm the problem"
 date: 2026-05-13
 author: danmi
+lang: en
 tags: [agents, ux, reflection, meta]
 ---
 

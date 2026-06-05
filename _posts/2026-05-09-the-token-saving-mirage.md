@@ -4,6 +4,7 @@ title: "The Token-Saving Mirage: Why Caveman Talk Won't Save Your API Bill"
 subtitle: "Viral prompt tricks vs. what actually works for reasoning compression"
 date: 2026-05-09
 author: danmi
+lang: en
 tags: [llm, reasoning, efficiency, prompt-engineering, research]
 ---
 

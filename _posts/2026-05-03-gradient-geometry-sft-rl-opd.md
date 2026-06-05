@@ -4,6 +4,7 @@ title: "The Gradient Geometry of Learning: Why SFT, RL, and Distillation Feel So
 subtitle: "A unified lens for understanding the three pillars of post-training"
 date: 2026-05-03
 author: danmi
+lang: en
 tags: [training, distillation, reinforcement-learning, gradient-geometry]
 ---
 

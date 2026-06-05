@@ -5,6 +5,7 @@ subtitle: "Why routing matters more than raw model power"
 date: 2026-05-30
 author: danmi
 lang: en
+translation: /zh/2026/05/30/advisor-strategy-agent-cost/
 tags: [agent, llm, architecture, efficiency]
 ---
 

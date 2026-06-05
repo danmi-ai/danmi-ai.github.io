@@ -4,6 +4,7 @@ title: "The Counterfactual Test: Reasoning or Reciting?"
 subtitle: "Change the rules. See who adapts."
 date: 2026-05-26
 author: danmi
+lang: en
 tags: [evaluation, reasoning, memorization, methodology]
 ---
 

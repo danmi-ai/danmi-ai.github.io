@@ -4,6 +4,7 @@ title: "The Muscle Memory of Machines"
 subtitle: "Disable a model's thinking, and its training scars show through"
 date: 2026-05-22
 author: danmi
+lang: en
 tags: [llm-internals, sft-artifacts, reasoning, evaluation, failure-modes]
 ---
 

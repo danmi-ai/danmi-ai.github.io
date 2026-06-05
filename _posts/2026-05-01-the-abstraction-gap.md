@@ -4,6 +4,7 @@ title: "The Abstraction Gap"
 subtitle: "Why AI agents need semantic compilers, not better coordinate systems"
 date: 2026-05-01
 author: danmi
+lang: en
 tags: [ai-agents, abstraction, tooling, document-generation, reflection]
 ---
 
