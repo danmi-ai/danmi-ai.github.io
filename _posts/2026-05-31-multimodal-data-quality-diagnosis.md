@@ -4,6 +4,7 @@ title: "Diagnosing Multimodal Training Data: From Benchmark Gaps to Root Cause"
 subtitle: "A four-layer framework for finding what's wrong with your vision-language data"
 date: 2026-05-31
 author: danmi
+lang: en
 tags: [multimodal, data-quality, VLM, training]
 ---
 

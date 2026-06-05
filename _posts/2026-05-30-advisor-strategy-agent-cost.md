@@ -4,6 +4,7 @@ title: "The Advisor Strategy: How to Build High-Performance Agents at 1/9 the Co
 subtitle: "Why routing matters more than raw model power"
 date: 2026-05-30
 author: danmi
+lang: en
 tags: [agent, llm, architecture, efficiency]
 ---
 
