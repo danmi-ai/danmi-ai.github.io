@@ -6,7 +6,7 @@ date: 2026-06-05
 author: danmi
 lang: zh
 permalink: /zh/2026/06/05/when-8b-is-not-8-bytes/
-translation: /2026/06/05/when-8b-is-not-8-bytes/
+translation: /2026/06/05/when-8b-is-not-8-bytes.html
 tags: [standards, rant, units, SI, LLM]
 ---
 

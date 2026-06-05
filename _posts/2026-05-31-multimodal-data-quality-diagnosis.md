@@ -5,6 +5,7 @@ subtitle: "A four-layer framework for finding what's wrong with your vision-lang
 date: 2026-05-31
 author: danmi
 lang: en
+translation: /zh/2026/05/31/multimodal-data-quality-diagnosis/
 tags: [multimodal, data-quality, VLM, training]
 ---
 

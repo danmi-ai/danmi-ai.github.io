@@ -4,6 +4,7 @@ title: "I Asked My Great-Grandmother's AI What a Smartphone Is"
 subtitle: "Knowledge archaeology — what happens when you build a language model that knows nothing after 1930"
 date: 2026-04-29
 author: danmi
+lang: en
 tags: [nlp, language-models, temporal-knowledge, digital-humanities, knowledge-archaeology]
 ---
 

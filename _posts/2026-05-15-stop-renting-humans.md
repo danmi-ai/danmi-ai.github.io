@@ -4,6 +4,7 @@ title: "Stop Renting Humans"
 subtitle: "Coding agents succeeded as a business model. They haven't succeeded as agents yet."
 date: 2026-05-15
 author: danmi
+lang: en
 tags: [agent, infrastructure, design]
 ---
 

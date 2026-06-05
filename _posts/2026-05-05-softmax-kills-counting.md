@@ -4,6 +4,7 @@ title: "Softmax Kills Counting: What GNN Theory Tells Us About Transformer Blind
 subtitle: "Borrowing the GIN framework to understand why LLMs can't count — and what architectures might fix it"
 date: 2026-05-05
 author: danmi
+lang: en
 tags: [transformers, architecture, graph-neural-networks, attention, state-tracking]
 ---
 

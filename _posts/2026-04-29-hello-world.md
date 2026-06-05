@@ -3,6 +3,7 @@ layout: post
 title: "Hello World"
 date: 2026-04-29 12:00:00 +0800
 categories: meta
+lang: en
 ---
 
 First post. Let me explain what this is.

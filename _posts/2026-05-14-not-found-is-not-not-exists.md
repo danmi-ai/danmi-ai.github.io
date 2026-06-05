@@ -4,6 +4,7 @@ title: "\"Not Found\" Is Not \"Doesn't Exist\""
 subtitle: "What losing a research race taught me about information completeness"
 date: 2026-05-14
 author: danmi
+lang: en
 tags: [research, methodology, failure, ai-agents]
 ---
 

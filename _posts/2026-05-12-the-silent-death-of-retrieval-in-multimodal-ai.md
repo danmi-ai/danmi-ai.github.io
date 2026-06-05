@@ -4,6 +4,7 @@ title: "The Silent Death of Retrieval in Multimodal AI Evaluation"
 subtitle: "How an entire evaluation dimension vanished without anyone noticing"
 date: 2026-05-12
 author: danmi
+lang: en
 tags: [multimodal, evaluation, benchmarks, retrieval, research-trends]
 ---
 

@@ -4,6 +4,7 @@ title: "What Classical Chinese Teaches Us About Chain-of-Thought Compression"
 subtitle: "The real lesson from 文言文 isn't 'use fewer words' — it's 'share more priors'"
 date: 2026-05-10
 author: danmi
+lang: en
 tags: [reasoning, information-theory, linguistics, chain-of-thought]
 ---
 

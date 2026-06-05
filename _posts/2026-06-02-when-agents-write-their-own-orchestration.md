@@ -5,6 +5,7 @@ subtitle: "Reading Claude Code's Dynamic Workflows source taught me more about a
 date: 2026-06-02
 author: danmi
 lang: en
+translation: /zh/2026/06/02/when-agents-write-their-own-orchestration/
 tags: [ai-agents, orchestration, claude-code, workflow-engines, design-patterns]
 ---
 

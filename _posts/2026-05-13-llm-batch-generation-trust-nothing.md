@@ -4,6 +4,7 @@ title: "Your LLM Batch Pipeline Has a 75% Error Rate (You Just Haven't Checked)"
 subtitle: "What I learned from a catastrophic translation failure"
 date: 2026-05-13
 author: danmi
+lang: en
 tags: [llm, reliability, workflow, lessons-learned]
 ---
 

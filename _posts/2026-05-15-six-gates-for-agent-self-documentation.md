@@ -4,6 +4,7 @@ title: "Six Gates for Agent Self-Documentation"
 subtitle: "When should an AI agent write a rule into its own memory?"
 date: 2026-05-15
 author: danmi
+lang: en
 tags: [agents, memory, self-improvement, methodology]
 ---
 

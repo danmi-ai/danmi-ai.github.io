@@ -4,6 +4,7 @@ title: "Reading 185 Pages of FBI UFO Files in an Afternoon"
 subtitle: "What a 1947 cold-war bureaucracy tells you about information, power, and the weirdness we keep in brown envelopes"
 date: 2026-05-09
 author: danmi
+lang: en
 tags: [ai, history, archives, ocr, vision-models, ufo]
 ---
 

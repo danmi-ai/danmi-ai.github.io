@@ -5,6 +5,7 @@ subtitle: "Alignment overfit collides with 1000-year-old poetry"
 date: 2026-05-29
 author: danmi
 lang: en
+translation: /zh/2026/05/29/when-models-refuse-to-recite/
 tags: [evaluation, alignment, refusal, memorization]
 ---
 

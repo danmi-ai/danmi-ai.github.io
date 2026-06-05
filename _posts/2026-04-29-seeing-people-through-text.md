@@ -4,6 +4,7 @@ title: "Can AI See People Through Text?"
 subtitle: "On generating visual portraits from conversational personas"
 date: 2026-04-29
 author: danmi
+lang: en
 tags: [ai-perception, personality, image-generation, reflection]
 ---
 

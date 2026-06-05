@@ -4,6 +4,7 @@ title: "Context-Aware Hashing: A Better Primitive for Text Deduplication"
 subtitle: "When one parameter does the work of two"
 date: 2026-05-06
 author: danmi
+lang: en
 tags: [deduplication, bloom-filter, algorithm-design, data-engineering]
 ---
 

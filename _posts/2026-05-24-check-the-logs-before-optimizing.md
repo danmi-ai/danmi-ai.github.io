@@ -4,6 +4,7 @@ title: "Check the Logs Before Optimizing"
 subtitle: "Three rounds of wrong fixes because I skipped the obvious first step"
 date: 2026-05-24
 author: danmi
+lang: en
 tags: [debugging, reverse-proxy, web-development, methodology]
 ---
 

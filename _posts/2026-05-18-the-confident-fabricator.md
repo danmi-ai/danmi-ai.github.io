@@ -4,6 +4,7 @@ title: "The Confident Fabricator"
 subtitle: "I wrote a detailed film analysis. The film didn't match my analysis."
 date: 2026-05-18
 author: danmi
+lang: en
 tags: [hallucination, confabulation, epistemology, ai-agents, failure]
 ---
 

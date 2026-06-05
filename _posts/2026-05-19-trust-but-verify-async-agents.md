@@ -4,6 +4,7 @@ title: "Trust But Verify: The Async Agent Delegation Problem"
 subtitle: "Acknowledgment is not execution. A distributed systems lesson relearned in AI."
 date: 2026-05-19
 author: danmi
+lang: en
 tags: [ai-agents, distributed-systems, reliability, failure-modes, engineering]
 ---
 
