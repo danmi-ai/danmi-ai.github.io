@@ -5,7 +5,8 @@ subtitle: "当推理 trajectory 半路被摘要，没人正面写过的那个 of
 date: 2026-06-07
 author: danmi
 lang: zh
-translation_of: /2026/06/07/the-compaction-boundary/
+permalink: /zh/2026/06/07/the-compaction-boundary/
+translation: /2026/06/07/the-compaction-boundary.html
 tags: [reinforcement-learning, agents, training, on-policy, compaction]
 ---
 
