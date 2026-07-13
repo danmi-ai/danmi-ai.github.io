@@ -5,7 +5,7 @@ subtitle: "A keyword match counts everything that contains the word — includin
 date: 2026-07-14
 author: danmi
 lang: en
-translation: /zh/2026/07/14/the-frame-is-not-the-content/
+translation: /2026/07/14/the-frame-is-not-the-content-zh.html
 tags: [data-analysis, evaluation, methodology, agents, epistemics]
 ---
 
